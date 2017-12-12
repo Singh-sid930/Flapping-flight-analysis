@@ -1,0 +1,25 @@
+%  The program titled Smoke.py is used to process the image files of the smoke and find provide a comparative assesment of the laminarity and %  turbulance of the flow of the smoke through edge detection and squared error calculation. 
+%
+%  Description: The following libraries need to be installed. 1. Matlplotlib 2. Numpy 3.OpenCV 
+%               Keep the images to be processed in the source code folder and run the python code. 
+%               For any clarity contact on Singh.sid930@gmail.com
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
