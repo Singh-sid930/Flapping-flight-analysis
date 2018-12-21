@@ -5,10 +5,13 @@ Part of undergrad project of analyzing the flapping flight mechanism of birds.
 The study was done in a wind tunnel ensuring laminar flow. 
 The laminarity was assessed through DIP. 
 
-Necessary dependencies:  
+Necessary dependencies:
 1. numpy
 2. cv2
 3. matplotlib
-![](img.png)
+
+
+![](img.jpg)
+
 ![](res.png)
 ![](res1.png)
